@@ -21,3 +21,7 @@ The project has been implemented as an IoT system which captures images through 
 * Setup directories according to each ```location.md```
 * Run ```python3 ir.py``` from the home directory in the pi.
 Machine Learning Model is in Server along with trained weights.
+
+## Frontend information
+WebApp -  CLIENT/webapp 
+Native app still under development
